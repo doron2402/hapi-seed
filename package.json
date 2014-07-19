@@ -4,6 +4,10 @@
   "dependencies": {
     "hapi": "~0.13.2"
   },
+  "scripts": {
+    "start":"bin/start.js",
+    "test":""
+  },
   "devDependencies": {
     "grunt": "0.4.0rc7",
     "grunt-contrib-copy": "0.4.0rc7",
