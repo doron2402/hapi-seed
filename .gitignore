@@ -17,4 +17,5 @@ results
 dist
 .sass-cache
 
+node_modules/
 npm-debug.log
