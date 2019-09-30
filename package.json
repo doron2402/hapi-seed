@@ -2,7 +2,7 @@
   "name": "hapi-seed",
   "version": "0.0.0",
   "dependencies": {
-    "hapi": "~0.13.2"
+    "hapi": "~0.14.0"
   },
   "scripts": {
     "start":"bin/start.js",
